@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.view.View;
 
 import ru.stdrone.sea.Game.Cycles.Cycle;
-import ru.stdrone.sea.Game.Cycles.Hotseat;
+import ru.stdrone.sea.Game.Cycles.HotSeat;
 import ru.stdrone.sea.Game.Cycles.IEndPlay;
 import ru.stdrone.sea.R;
 
@@ -36,7 +36,7 @@ public class Menu extends Layout implements IEndPlay {
     final View.OnClickListener _play_hs = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            Play(new Hotseat());
+            Play(new HotSeat());
         }
     };
 }

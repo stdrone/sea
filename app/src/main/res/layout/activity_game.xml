@@ -75,7 +75,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:labelFor="@+id/txt_hs_password"
-                android:text="123"
                 android:textAlignment="center"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium" />
 
