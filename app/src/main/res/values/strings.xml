@@ -5,4 +5,8 @@
     <string name="btn_play_bt">Play over Bluetooth</string>
     <string name="btn_play_online">Play online</string>
     <string name="btn_play_hs">Play on same phone</string>
+
+    <string name="btn_hs_login">Ok</string>
+    <string name="lbl_hs_password1">First player password </string>
+    <string name="lbl_hs_password2">Second player password </string>
 </resources>

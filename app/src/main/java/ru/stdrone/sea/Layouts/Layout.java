@@ -3,8 +3,6 @@ package ru.stdrone.sea.Layouts;
 import android.app.Activity;
 import android.view.View;
 
-import ru.stdrone.sea.R;
-
 public abstract class Layout {
     protected Activity _activity;
     protected View _view;
