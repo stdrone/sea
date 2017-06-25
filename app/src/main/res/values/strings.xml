@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sea</string>
+
+    <string name="btn_quit">Quit</string>
+    <string name="btn_play_bt">Play over Bluetooth</string>
+    <string name="btn_play_online">Play online</string>
+    <string name="btn_play_hs">Play on same phone</string>
+</resources>
